@@ -1,0 +1,33 @@
+#Type,Maker,Model
+Otomobil,Acura,RLX
+Otomobil,Acura,TLX
+SUV,Acura,MDX
+SUV,Acura,RDX
+SUV,Acura,MDX Sport Hybrid
+Otomobil,Acura,RLX Sport Hybrid
+SUV,Acura,MDX
+Otomobil,Acura,NSX
+SUV,Acura,RDX
+Otomobil,Acura,TLX
+Otomobil,Acura,ILX
+Otomobil,Acura,RLX
+Otomobil,Acura,ILX
+Otomobil,Acura,RLX
+Otomobil,Acura,TLX
+SUV,Acura,MDX
+Otomobil,Acura,RLX Sport Hybrid
+SUV,Acura,RDX
+SUV,Acura,MDX Sport Hybrid
+Otomobil,Acura,NSX
+SUV,Acura,MDX Sport Hybrid
+SUV,Acura,MDX
+SUV,Acura,RDX
+Otomobil,Acura,NSX
+Otomobil,Acura,ILX
+Otomobil,Acura,RLX Sport Hybrid
+Otomobil,Acura,RLX
+Otomobil,Acura,TLX
+Otomobil,Acura,RLX
+Otomobil,Acura,TLX
+Otomobil,Acura,RLX Sport Hybrid
+Otomobil,Acura,ILX

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h1>{{.PageTitle}}</h1>
+    <ul>
+        {{range .Todos}}
+        {{if .Done}}
+        <li ><a>{{.Title}}</a></li>
+        {{else}}
+        <li>{{.Title}}</li>
+        {{end}}
+        {{end}}
+    </ul>
+
+</body>
+
+</html>
